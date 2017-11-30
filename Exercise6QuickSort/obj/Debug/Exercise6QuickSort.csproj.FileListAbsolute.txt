@@ -1,0 +1,10 @@
+C:\Users\Khalid\Desktop\Exercise6QuickSort\bin\Debug\Exercise6QuickSort.exe.config
+C:\Users\Khalid\Desktop\Exercise6QuickSort\obj\Debug\Exercise6QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Desktop\Exercise6QuickSort\bin\Debug\Exercise6QuickSort.exe
+C:\Users\Khalid\Desktop\Exercise6QuickSort\bin\Debug\Exercise6QuickSort.pdb
+C:\Users\Khalid\Desktop\Exercise6QuickSort\obj\Debug\Exercise6QuickSort.exe
+C:\Users\Khalid\Desktop\Exercise6QuickSort\obj\Debug\Exercise6QuickSort.pdb
+C:\Users\Khalid\Desktop\Exercise6QuickSort\obj\Debug\Exercise6QuickSort.rewritten
+C:\Users\Khalid\Desktop\Exercise6QuickSort\obj\Debug\Decl\Exercise6QuickSort.exe
+C:\Users\Khalid\Desktop\Exercise6QuickSort\obj\Debug\Decl\Exercise6QuickSort.pdb
+C:\Users\Khalid\Desktop\Exercise6QuickSort\obj\Debug\CodeContractAnalysisRun.log
